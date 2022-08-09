@@ -1,18 +1,10 @@
 # Next.js Template
 
-This is a [Next.js](https://nextjs.org/) template for development.
-
-## Installed
-
-- next `12.2.4`
-- typescript `4.7.4`
-- tailwindcss `^3.1.8`
-- prettier `^2.7.1`
-- lint-staged `^13.0.3`
-- jest `^28.1.3`
-- commitlint `^17.0.3`
-- husky `^8.0.1`
+This is a [Next.js](https://nextjs.org/) with [TypeScript](https://www.typescriptlang.org/) template for development.
 
 ## Feature
 
-- Automatic testing with `Jest` and Lint with `ESLint` and `Prettier` on commit
+- Testing with [Jest](https://jestjs.io/)
+- Lint with [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/)
+- Automate testing, lint code and lint commit message with [husky](https://typicode.github.io/husky/), [lint-staged](https://github.com/okonet/lint-staged) and [commitlint](https://commitlint.js.org/)
+- Style custumization with [Tailwind CSS](https://tailwindcss.com/)
